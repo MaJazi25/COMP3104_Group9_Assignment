@@ -1,0 +1,3 @@
+COMP 2156 DevOps is a course in the Computer Systems Technology program at George Brown.
+It is offered in semester 4 and builds on COMP 2155 Network Automation.
+The course focuses on applying DevOps principles to real-world system administration.
