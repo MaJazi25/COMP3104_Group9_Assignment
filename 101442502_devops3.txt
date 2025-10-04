@@ -1,2 +1,3 @@
 The DevOps course helps students understand how to connect development and operations.
 It prepares students for modern IT jobs that require automation and collaboration skills.
+By completing COMP 2156, students gain practical experience in DevOps workflows.
