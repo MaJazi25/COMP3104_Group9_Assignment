@@ -1,0 +1,4 @@
+COMP 2156 DevOps teaches GitHub, CI/CD, and automation.
+- The DevOps course covers version control with Git and GitHub.
+- Students learn how to use Git branching and merging.
+- The DevOps course introduces CI/CD pipelines using GitHub Actions.

@@ -1,0 +1,4 @@
+George Brown College is one of the largest colleges in Canada.
+- GBC has campuses at Casa Loma, St. James, and Waterfront.
+- GBC offers programs in technology, health sciences, and business.
+Summary: GBC and DevOps prepare students for modern software development.
