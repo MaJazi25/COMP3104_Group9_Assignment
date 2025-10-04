@@ -1,2 +1,3 @@
 Students learn version control with Git and GitHub, including branching and merging.
 The course introduces Continuous Integration and Continuous Deployment (CI/CD) pipelines.
+Students practice automation for builds, tests, and deployments.
