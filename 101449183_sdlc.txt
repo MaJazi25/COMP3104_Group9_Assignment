@@ -1,2 +1,3 @@
 DevOps is important in SDLC because it ensures faster delivery and collaboration.
 - DevOps in SDLC reduces time between development and deployment.
+- DevOps improves collaboration between developers and operations teams.
