@@ -1,0 +1,1 @@
+The DevOps course helps students understand how to connect development and operations.
