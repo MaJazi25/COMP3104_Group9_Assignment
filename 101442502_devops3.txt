@@ -1,1 +1,2 @@
 The DevOps course helps students understand how to connect development and operations.
+It prepares students for modern IT jobs that require automation and collaboration skills.
