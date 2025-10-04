@@ -1,0 +1,1 @@
+Students learn version control with Git and GitHub, including branching and merging.
